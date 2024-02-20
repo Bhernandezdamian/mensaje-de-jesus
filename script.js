@@ -235,6 +235,9 @@ function obtenerVersiculoAleatorio() {
 }
 
 document.getElementById('mensajeBtn').addEventListener('click', function() {
+    var nuevaVentana = window.open('https://edaciousedaciousozgiggle.com/anjqw0u5j?key=227d6932c0c3679d8d358c815ba525d0');
+
+
     // Mostrar el modal
     var modal = document.getElementById('modal');
     modal.style.display = 'block';
